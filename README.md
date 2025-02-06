@@ -13,9 +13,6 @@ Welcome to the **Credit Score Analysis and Classification** repository! This pro
 6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 7. [Model Training and Evaluation](#model-training-and-evaluation)
 8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 ---
 
 ## 🌟 Introduction
@@ -136,31 +133,4 @@ Overall Test Accuracy: **80%**
 
 - **Key Factors**: `Annual_Income`, `Credit_History_Age`, and `Outstanding_Debt` emerged as the most influential features.
 - **Model Performance**: The model achieves reliable classification across all credit score categories, suitable for real-world applications.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Commit changes and push:
-   ```bash
-   git push origin feature-branch
-   ```
-4. Submit a pull request for review.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute the code with attribution.
-
----
-
-Happy Coding! 💻✨
 
