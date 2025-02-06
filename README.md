@@ -7,12 +7,10 @@ Welcome to the **Credit Score Analysis and Classification** repository! This pro
 ## 🚀 Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Dataset Overview](#dataset-overview)
-6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-7. [Model Training and Evaluation](#model-training-and-evaluation)
-8. [Results](#results)
+3. [Dataset Overview](#dataset-overview)
+4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+5. [Model Training and Evaluation](#model-training-and-evaluation)
+6. [Results](#results)
 ---
 
 ## 🌟 Introduction
@@ -31,46 +29,6 @@ Credit scoring plays a critical role in financial decision-making, impacting loa
 - **EDA and Visualizations**: Gain insights through descriptive statistics and plots.
 - **Machine Learning Models**: Implements `RandomForestClassifier` with hyperparameter tuning.
 - **Reproducibility**: Modular codebase with detailed instructions.
-
----
-
-## 🛠️ Installation
-
-Follow these steps to set up the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Add the dataset (`train.csv`) to the project root directory.
-
----
-
-## 📖 Usage
-
-1. Preprocess the data:
-   ```bash
-   python preprocess.py
-   ```
-2. Perform exploratory data analysis:
-   ```bash
-   python eda.py
-   ```
-3. Train the model:
-   ```bash
-   python train.py
-   ```
-4. Evaluate the results:
-   ```bash
-   python evaluate.py
-   ```
 
 ---
 
@@ -96,9 +54,6 @@ EDA highlights patterns and relationships in the data. Key visualizations includ
 - **Credit Score Distribution**: Understand the balance across score categories.
 - **Income vs. Credit Score**: Analyze the impact of annual income on scores.
 - **Credit History Analysis**: Examine the role of credit history length.
-
-Example:
-![Credit Score Distribution](images/credit_score_distribution.png)
 
 ---
 
